@@ -13,8 +13,14 @@
 <h3> How to run the project :</h3>
 <br>
 <ol>Create .env file in root directory and add the following things :</ol>
+<br>
 <p>PORT=" Please enter a valid port number 8080"</p>
 <p>MONGO_URL="Your MONGO_URI"</p>
 <p>NODE_MODE="devlopemnet"</p>
 <p>JWT_SECRET="your jwt secret"</p>
-
+ <br>
+ <br>
+<p>In the root directory : "npm install" </p>
+<p>cd client  : "npm install " </p>
+<p> To start the frontend "npm start" </p>
+<p>To start the backend and frontend Concurrently Use : "npm run dev"</p>
