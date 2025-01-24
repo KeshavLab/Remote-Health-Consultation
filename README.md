@@ -11,9 +11,10 @@
 
 
 <h3> How to run the project :</h3>
+<br>
 <ol>Create .env file in root directory and add the following things :</ol>
-<p>PORT=" Please enter a valid port number 8080"
-MONGO_URL="Your MONGO_URI"
-NODE_MODE="devlopemnet"
-JWT_SECRET="your jwt secret"</p>
+<p>PORT=" Please enter a valid port number 8080"</p>
+<p>MONGO_URL="Your MONGO_URI"</p>
+<p>NODE_MODE="devlopemnet"</p>
+<p>JWT_SECRET="your jwt secret"</p>
 
