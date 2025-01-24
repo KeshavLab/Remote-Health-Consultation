@@ -26,4 +26,13 @@
  <li>cd client  : "npm install "</li>
  <li><p> To start the frontend  : "npm start"</li>
  <li>To start the backend and frontend Concurrently Use : "npm run dev"</li></ol>
-
+ <br>
+ <br>
+<h2>Project Team Members :</h2>
+<ol><li>Keshav Kolekar</li>
+<li>Ashish Kolekar</li>
+<li>shivraj kachare</li>
+<li>Prathamesh Dhembare</li></ol>
+<br>
+<hr>
+<p> Connect with me on LinkedIn: www.linkedin.com/in/keshav-kolekar-9058a0279</p>
