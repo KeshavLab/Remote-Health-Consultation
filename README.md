@@ -2,11 +2,13 @@
 <br>
 <br>
 <h1>M E R N  Stack</h1>
-Techonologies Used in the Project:
-1.Mongo DB
-2.Express.js
-3.React.js
-4.Node.js(for backend)
+<h3>Techonologies Used in the Project:</h3>
+<li>Mongo DB</li>
+<li>Express.js</li>
+<li>React.js</li>
+<li>Node.js(for backend)</li>
+
+
 
 <h3> How to run the project :</h3>
 Create .env file in root directory and fill the following things :
