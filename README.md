@@ -20,6 +20,8 @@
 <p>JWT_SECRET="your jwt secret"</p>
  <br>
  <br>
+ <h2>Installing the required dependencies :</h2>
+ <br>
  <ol><li>In the root directory : "npm install" </li>
  <li>cd client  : "npm install "</li>
  <li><p> To start the frontend  : "npm start"</li>
