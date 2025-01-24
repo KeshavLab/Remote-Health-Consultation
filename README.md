@@ -20,7 +20,8 @@
 <p>JWT_SECRET="your jwt secret"</p>
  <br>
  <br>
-<p>In the root directory : "npm install" </p>
+ <ol><p>In the root directory : "npm install" </p>
 <p>cd client  : "npm install " </p>
 <p> To start the frontend "npm start" </p>
-<p>To start the backend and frontend Concurrently Use : "npm run dev"</p>
+<p>To start the backend and frontend Concurrently Use : "npm run dev"</p></ol>
+
