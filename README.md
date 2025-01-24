@@ -1,4 +1,5 @@
 <h1>Remote Health Consultaion System</h1>
+<p>It is Doctor Appointment Booking application created by using MERN technology. It is simple and easy to use </p>
 <br>
 <br>
 <h1>M E R N  Stack</h1>
